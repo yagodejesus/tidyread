@@ -1,0 +1,12 @@
+Tabela 1 - População residente e área territorial (dados fictícios para demonstração);;;;;
+Unidade territorial: Municípios;;;;;
+;;;;;
+Município;Código IBGE;População;Área (km²);Densidade (hab/km²);Data de referência
+Bragança;1501709;130.122;2.124,73;61,24;01/08/2022
+Augusto Corrêa;1500909;44.587;1.099,22;40,56;01/08/2022
+Capanema;1502400;69.833;614,69;113,61;01/08/2022
+Tracuateua;1508035;30.912;934,27;33,09;01/08/2022
+Viseu;1508407;-;4.915,07;...;01/08/2022
+;;;;;
+Fonte: exemplo ilustrativo, números inventados.;;;;;
+Notas: - dado inexistente; ... dado não disponível.;;;;;
